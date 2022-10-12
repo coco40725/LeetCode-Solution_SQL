@@ -17,4 +17,5 @@
 |196|[Delete Duplicate Emails](https://leetcode.com/submissions/detail/820602464/) | [MySQL](https://github.com/coco40725/LeetCode-Solution_SQL/blob/main/No.101-200/196.%20Delete%20Duplicate%20Emails.sql) | Easy | left join, where |
 |1667|[Fix Names in a Table](https://leetcode.com/submissions/detail/820642809/) | [MySQL](https://github.com/coco40725/LeetCode-Solution_SQL/blob/main/No.1601-1700/1667.%20Fix%20Names%20in%20a%20Table.sql) | Easy | concat |
 |1527|[Patients With a Condition](https://leetcode.com/submissions/detail/820688977/) | [MySQL](https://github.com/coco40725/LeetCode-Solution_SQL/blob/main/No.1501-1600/1527.%20Patients%20With%20a%20Condition.sql) | Easy | LIKE, regexp |
+|1965|[Employees With Missing Information](https://leetcode.com/submissions/detail/820727280/) | [MySQL](https://github.com/coco40725/LeetCode-Solution_SQL/blob/main/No.1901-2000/1965.%20Employees%20With%20Missing%20Information.sql) | Easy | UNION |
 </details>
