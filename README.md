@@ -16,5 +16,5 @@
 |627|[Swap Salary](https://leetcode.com/submissions/detail/820582551/) | [MySQL](https://github.com/coco40725/LeetCode-Solution_SQL/blob/main/No.601-700/627.%20Swap%20Salary.sql) | Easy | case |
 |196|[Delete Duplicate Emails](https://leetcode.com/submissions/detail/820602464/) | [MySQL](https://github.com/coco40725/LeetCode-Solution_SQL/blob/main/No.101-200/196.%20Delete%20Duplicate%20Emails.sql) | Easy | left join, where |
 |1667|[Fix Names in a Table](https://leetcode.com/submissions/detail/820642809/) | [MySQL](https://github.com/coco40725/LeetCode-Solution_SQL/blob/main/No.1601-1700/1667.%20Fix%20Names%20in%20a%20Table.sql) | Easy | concat |
-|1484|[Group Sold Products By The Date](https://leetcode.com/submissions/detail/820666533/) | [MySQL](https://github.com/coco40725/LeetCode-Solution_SQL/blob/main/No.1400-1501/1484.%20Group%20Sold%20Products%20By%20The%20Date.sql) | Easy | COUNT(1),  GROUP_CONCAT([column][order by])|
+|1527|[Patients With a Condition](https://leetcode.com/submissions/detail/820688977/) | [MySQL](https://github.com/coco40725/LeetCode-Solution_SQL/blob/main/No.1501-1600/1527.%20Patients%20With%20a%20Condition.sql) | Easy | LIKE, regexp |
 </details>
